@@ -1,4 +1,4 @@
-# ABP Documentation
+# Dyocense Documentation
 
 ABP is an **open source application framework** focused on ASP.NET Core based web application development, but also supports developing other types of applications.
 

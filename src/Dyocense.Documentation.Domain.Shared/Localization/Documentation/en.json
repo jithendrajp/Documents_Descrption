@@ -1,0 +1,9 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the Dyocense Documentation. ",
+    "Menu:Docs": "Documents"
+  }
+}
