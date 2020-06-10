@@ -5,13 +5,94 @@
       "text": "Getting Started",
       "items": [
         {
-          "text": "WEb",
-          "path": "index.md"
-        }
+          "text": "Login",
+          "path": "login.md"
+        },
+        {
+          "text": "Dashboard",
+          "path": "dashboard.md"
+        },
+        
+        {
+        "text": "Adminstration",
+        "items": [
+          {
+            "text": "Organization Units",
+            "path": "organizationunits.md"
+          },
+          {
+            "text": "Roles",
+            "path": "roles.md"
+          },
+          {
+            "text": "User",
+            "path": "user.md"
+          },
+          {
+            "text": "Business Partners",
+            "path": "businesspartners.md"
+          },
+          {
+            "text": "Languages",
+            "path": "languages.md"
+          },
+          {
+            "text": "Audit Logs",
+            "path": "audit.md"
+          },
+          {
+            "text": "Subscription",
+            "path": "subscription.md"
+          },
+          {
+            "text": "Visual Settings",
+            "path": "visualsetting.md"
+          },
+          {
+            "text": "Settings",
+            "path": "settings.md"
+          }
+        
         
       ]
-    }
+    },
+      
+    {
+    "text": "Manage Assets",
+    "items": [
+      {
+        "text": "Asset type",
+        "path": "assettype.md"
+      }
+    
+  ]
+}
+,
+{
+  "text": "Device types",
+  "path": "devicetypes.md"
+},
+{
+  "text": "Devices",
+  "path": "devices.md"
+},
+{
+  "text": "Rules",
+  "path": "rules.md"
+},
+{
+  "text": "Alarms",
+  "path": "alarms.md"
+},
+{
+  "text": "Reports",
+  "path": "reports.md"
+}          
 
   ]
 }
+
+  ]
+}
+
 
